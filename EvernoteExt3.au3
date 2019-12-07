@@ -1,5 +1,5 @@
 #Region ;**** Directives created by AutoIt3Wrapper_GUI ****
-#AutoIt3Wrapper_Icon=AutoIt_Main_v11_256x256_RGB-A.ico
+#AutoIt3Wrapper_Icon=EvernoteExt3_256x256.ico
 #AutoIt3Wrapper_Res_Comment=Вставка даты и форматирование в Evernote
 #EndRegion ;**** Directives created by AutoIt3Wrapper_GUI ****
 #cs ----------------------------------------------------------------------------
